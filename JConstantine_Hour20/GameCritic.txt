@@ -1,0 +1,31 @@
+Hour 20 Game Critic
+
+1.
+The game is easy in my opinion because
+A: The good pickups move a bit too slow which makes them really easy to line up to.
+B: The good pickups give you a bit too much time which makes it really easy to build up time
+C: The obstacles do not lower the time enough which makes it really easy to recover from a hit.
+
+2.
+The three things I would change to make the game harder would be.
+A: Increase the speed of the pickups and obstacles slightly.
+B: Reduce the added time on the pickups from 1.5 seconds to 1.25 seconds.
+C: Increase the lost time on the obsticles from -0.5 seconds to -0.75 seconds
+
+3.
+Three things that would give the game a "wow" factor are
+A: Adding some music to the game
+B: Changing the mesh of the obstacle to something more menacing
+C: Adding more to the enviornment so it's not just a floating floor in the void
+
+4.
+Three things in the game that are fun are
+A: Weaving between the obstacles
+B: Getting a couple powerups in a row in quick succession
+C: Building up a really high timer 
+
+5.
+Some things that make the game tedious to me are
+A: Since a high time is the end goal. It can feel tedious if you are done playing and you have built up a high time remaining
+B: The game is visually very simple and that can feel repetitive very quickly
+C: The fact that the game stays at the same speed and does not slowly speed up over time makes it feel very tedious to me
